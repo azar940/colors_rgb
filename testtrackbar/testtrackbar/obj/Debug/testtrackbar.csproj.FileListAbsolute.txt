@@ -1,0 +1,10 @@
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\bin\Debug\testtrackbar.exe.config
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\bin\Debug\testtrackbar.exe
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\bin\Debug\testtrackbar.pdb
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.csprojAssemblyReference.cache
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.Form1.resources
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.Properties.Resources.resources
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.csproj.GenerateResource.cache
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.csproj.CoreCompileInputs.cache
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.exe
+C:\Users\AZAR\source\repos\testtrackbar\testtrackbar\obj\Debug\testtrackbar.pdb
